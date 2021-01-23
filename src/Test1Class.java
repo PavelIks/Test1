@@ -52,7 +52,7 @@ public class Test1Class extends HttpServlet
 }*/
 
 /*Применение doGet: String-массив*/
-@WebServlet("/Test1Class")
+/*@WebServlet("/Test1Class")
 public class Test1Class extends HttpServlet
 {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
@@ -82,4 +82,4 @@ public class Test1Class extends HttpServlet
 			}
 		}
 	}
-}
+}*/
